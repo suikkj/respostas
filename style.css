@@ -126,5 +126,20 @@ header > .interface{
         display: none;
     }
 
+    .alerta{
+        position: fixed;
+        z-index: 1000;
+        display: none;
+        bottom: 20px;
+        left: 50%;
+        transform: translateX(-50%);
+        background-color: red;
+        color: white;
+        padding: 10px;
+        border-radius: 5px;
+        font-size: 15px;
+        transition: opacity 0.5s ease-in-out;
+    }
+
 
 }
