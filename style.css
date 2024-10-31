@@ -1,0 +1,130 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Cinzel", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+      
+}
+
+/* Começo */
+.Mobile{
+    display: none;
+}
+
+body{
+    background-color: rgb(17, 17, 17);
+    height: 120vh;
+}
+
+.interface{
+    font-size: 40px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 29vh;
+    font-size: 40px;
+
+}
+
+.interface nav ul li a{
+    color: white;
+    text-decoration: none;
+    cursor: context-menu;
+}
+
+.interface nav ul{
+    list-style-type: none;
+}
+
+header > .interface{
+    align-content: center;
+    justify-content: space-between;
+    margin: 15px;
+}
+
+
+/* Tiulo e caixa */
+
+.interface .Titulo{
+    margin: 0;
+    color: white;
+    font-size: 35px;
+
+}
+
+.interface input{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    border: 0;
+    outline: 0;
+    padding: 20px 15px;
+    color:black;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.interface button{
+    padding: 10px 30px;
+    font-size: 18px;
+    font-weight: 600;
+    background: black;
+    border: 0;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: .2s;
+    margin-top: 10px;
+    color:white;
+    margin-top: 25px;
+}
+
+.interface button:hover{
+    background: white;
+    color:black;
+    box-shadow: 0 0 16px white;
+    transform: scale(1.05);
+}
+
+.alerta{
+    position: fixed;
+    z-index: 1000;
+    display: none;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: red;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 18px;
+    transition: opacity 0.5s ease-in-out;
+}
+
+.caixamobile{
+    display: none;
+}
+
+/* Conversão para celular */
+
+@media screen and (max-width: 1200px) {
+    
+    .Mobile{
+        display: flex;
+        font-size: 30px;
+        text-align: center;
+        text-decoration: none;
+        color: white;
+        margin: 10px;
+    }
+
+    .interface nav ul li a{
+        display: none;
+    }
+
+
+}
