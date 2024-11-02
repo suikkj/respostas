@@ -1,1 +1,268 @@
-(function(_0x505c08,_0x4da634){const _0x374611=_0x1375,_0x10d0af=_0x505c08();while(!![]){try{const _0x150322=-parseInt(_0x374611(0x173))/0x1+parseInt(_0x374611(0x1aa))/0x2*(-parseInt(_0x374611(0x16f))/0x3)+-parseInt(_0x374611(0x1c0))/0x4*(-parseInt(_0x374611(0x17c))/0x5)+-parseInt(_0x374611(0x1cd))/0x6*(-parseInt(_0x374611(0x1d1))/0x7)+parseInt(_0x374611(0x196))/0x8*(parseInt(_0x374611(0x1a2))/0x9)+-parseInt(_0x374611(0x172))/0xa+parseInt(_0x374611(0x18b))/0xb*(parseInt(_0x374611(0x1a8))/0xc);if(_0x150322===_0x4da634)break;else _0x10d0af['push'](_0x10d0af['shift']());}catch(_0x445c09){_0x10d0af['push'](_0x10d0af['shift']());}}}(_0x5447,0x23691));function redirectUser(){const _0x6f0565=_0x1375,_0x3043da=document['getElementById']('input')[_0x6f0565(0x1b4)]['trim']()['toLowerCase']();function _0x5a5f36(_0x131616){const _0x32108b=_0x6f0565,_0x51c4ca=document[_0x32108b(0x191)]('alerta');_0x51c4ca[_0x32108b(0x1e5)]=_0x131616,_0x51c4ca[_0x32108b(0x174)][_0x32108b(0x1af)]=_0x32108b(0x198),_0x51c4ca['classList'][_0x32108b(0x177)]('show'),setTimeout(()=>{const _0x7f4c13=_0x32108b;_0x51c4ca[_0x7f4c13(0x174)]['display']=_0x7f4c13(0x1d5);},0x1388);}switch(_0x3043da){case _0x6f0565(0x170):window['open'](_0x6f0565(0x1c6),_0x6f0565(0x1a0));break;case'finn':window[_0x6f0565(0x1c7)]('https://www.youtube.com/watch?v=J8CorcKPnRc',_0x6f0565(0x1a0));break;case _0x6f0565(0x1b1):window['open'](_0x6f0565(0x1bd),_0x6f0565(0x1a0));break;case'diretora':window[_0x6f0565(0x1c7)](_0x6f0565(0x1bd),'_blank');break;case'giideon':window[_0x6f0565(0x1c7)](_0x6f0565(0x1d2),_0x6f0565(0x1a0));break;case _0x6f0565(0x1a1):window[_0x6f0565(0x1c7)](_0x6f0565(0x192),'_blank');break;case _0x6f0565(0x1c1):window[_0x6f0565(0x1c7)](_0x6f0565(0x1d0),'_blank');break;case _0x6f0565(0x1b7):window[_0x6f0565(0x1c7)](_0x6f0565(0x17f),_0x6f0565(0x1a0));break;case _0x6f0565(0x1a7):window[_0x6f0565(0x1c7)]('https://www.youtube.com/shorts/KurtSRbjC5g','_blank');break;case'adriel':window['open'](_0x6f0565(0x190),_0x6f0565(0x1a0));break;case _0x6f0565(0x183):window[_0x6f0565(0x1c7)](_0x6f0565(0x18c),_0x6f0565(0x1a0));break;case'rr':window[_0x6f0565(0x1c7)](_0x6f0565(0x195),_0x6f0565(0x1a0));break;case _0x6f0565(0x1b9):window[_0x6f0565(0x1c7)](_0x6f0565(0x195),_0x6f0565(0x1a0));break;case _0x6f0565(0x1e3):window['open'](_0x6f0565(0x195),'_blank');break;case'ed':window[_0x6f0565(0x1c7)](_0x6f0565(0x1d9),_0x6f0565(0x1a0));break;case _0x6f0565(0x1e1):window['open'](_0x6f0565(0x1cf),_0x6f0565(0x1a0));break;case _0x6f0565(0x1e3):window[_0x6f0565(0x1c7)](_0x6f0565(0x195),_0x6f0565(0x1a0));break;case _0x6f0565(0x1bb):window[_0x6f0565(0x1c7)]('https://www.youtube.com/watch?v=d7BpBAL2ztc',_0x6f0565(0x1a0));break;case _0x6f0565(0x178):window['open'](_0x6f0565(0x193),_0x6f0565(0x1a0));break;case _0x6f0565(0x1c2):window[_0x6f0565(0x1c7)]('https://www.youtube.com/watch?v=qPGe7YeiPto',_0x6f0565(0x1a0));break;case _0x6f0565(0x1bf):window[_0x6f0565(0x1c7)](_0x6f0565(0x1dc),'_blank');break;case'niko':window[_0x6f0565(0x1c7)](_0x6f0565(0x175),_0x6f0565(0x1a0));break;case _0x6f0565(0x1d6):window[_0x6f0565(0x1c7)](_0x6f0565(0x1b2),_0x6f0565(0x1a0));break;case _0x6f0565(0x1de):window[_0x6f0565(0x1c7)]('https://www.youtube.com/watch?v=IQuc7wfO16Q','_blank');break;case'felipe':window[_0x6f0565(0x1c7)](_0x6f0565(0x1ab),_0x6f0565(0x1a0));break;case _0x6f0565(0x16c):window['open'](_0x6f0565(0x189),_0x6f0565(0x1a0));break;case _0x6f0565(0x1eb):window[_0x6f0565(0x1c7)]('https://www.youtube.com/watch?v=dTL8ugXNv5E',_0x6f0565(0x1a0));break;case _0x6f0565(0x1d4):window[_0x6f0565(0x1c7)](_0x6f0565(0x19c),_0x6f0565(0x1a0));break;case _0x6f0565(0x1e8):window[_0x6f0565(0x1c7)](_0x6f0565(0x19f),_0x6f0565(0x1a0));break;case _0x6f0565(0x1df):window['open'](_0x6f0565(0x19f),_0x6f0565(0x1a0));break;case _0x6f0565(0x1a4):window[_0x6f0565(0x1c7)](_0x6f0565(0x1dd),_0x6f0565(0x1a0));break;case _0x6f0565(0x19e):window['open'](_0x6f0565(0x1c8),_0x6f0565(0x1a0));break;case _0x6f0565(0x1c9):window[_0x6f0565(0x1c7)](_0x6f0565(0x1da),_0x6f0565(0x1a0));break;case _0x6f0565(0x186):window[_0x6f0565(0x1c7)](_0x6f0565(0x187),_0x6f0565(0x1a0));break;case'gorr':window['open'](_0x6f0565(0x182),_0x6f0565(0x1a0));break;case _0x6f0565(0x1ca):window['open'](_0x6f0565(0x1e6),'_blank');break;case _0x6f0565(0x1ac):window['open'](_0x6f0565(0x176));break;case _0x6f0565(0x1b3):window['open']('https://drive.google.com/file/d/1wj5EfXf4Hu2qQ47nLXdTq_aSEKo2kFc5/view?usp=sharing',_0x6f0565(0x1a0));break;case _0x6f0565(0x194):window[_0x6f0565(0x1c7)](_0x6f0565(0x19b),_0x6f0565(0x1a0));break;case _0x6f0565(0x1a5):window['open']('https://drive.google.com/file/d/13Y6c8vxyVWpUSP3co5llk-lRGlRva8V4/view?usp=drive_link',_0x6f0565(0x1a0));break;case _0x6f0565(0x17d):window[_0x6f0565(0x1c7)]('https://drive.google.com/file/d/1TVQdYt6JXWsHcGXuUZxgFAfQGVAE4t3d/view?usp=drive_link',_0x6f0565(0x1a0));break;case _0x6f0565(0x1ea):window[_0x6f0565(0x1c7)](_0x6f0565(0x19d),_0x6f0565(0x1a0));break;case _0x6f0565(0x1e2):window['open'](_0x6f0565(0x1d3),'_blank');break;case _0x6f0565(0x1b8):window[_0x6f0565(0x1c7)](_0x6f0565(0x1be),_0x6f0565(0x1a0));break;case'osto':window[_0x6f0565(0x1c7)](_0x6f0565(0x1e0),'_blank');break;case _0x6f0565(0x1db):window[_0x6f0565(0x1c7)](_0x6f0565(0x1e4),_0x6f0565(0x1a0));break;case _0x6f0565(0x1ae):window[_0x6f0565(0x1c7)](_0x6f0565(0x1e4),'_blank');break;case _0x6f0565(0x1cb):window['open'](_0x6f0565(0x1e4),_0x6f0565(0x1a0));break;case'chave\x20da\x20provacao':window[_0x6f0565(0x1c7)](_0x6f0565(0x1e4),_0x6f0565(0x1a0));break;case _0x6f0565(0x188):window['open'](_0x6f0565(0x1e7),'_blank');break;case'#0afeb8#cb10ef#ffea88#c9fff2#ffc9ea#f50016':window['open']('https://drive.google.com/file/d/1SKr1uPIMFfdK6b6yYML_P-hTQ9qOtKep/view?usp=drive_link',_0x6f0565(0x1a0));break;case _0x6f0565(0x184):window[_0x6f0565(0x1c7)](_0x6f0565(0x199),_0x6f0565(0x1a0));break;case _0x6f0565(0x1a6):window[_0x6f0565(0x1c7)](_0x6f0565(0x199),_0x6f0565(0x1a0));break;case _0x6f0565(0x1a3):window[_0x6f0565(0x1c7)](_0x6f0565(0x199),'_blank');break;case _0x6f0565(0x1ec):window[_0x6f0565(0x1c7)](_0x6f0565(0x1c5),_0x6f0565(0x1a0));break;case _0x6f0565(0x185):window['open'](_0x6f0565(0x1b6),'_blank');break;case _0x6f0565(0x18e):window[_0x6f0565(0x1c7)](_0x6f0565(0x1b6),_0x6f0565(0x1a0));break;case _0x6f0565(0x1b0):window[_0x6f0565(0x1c7)](_0x6f0565(0x1b6),_0x6f0565(0x1a0));break;case _0x6f0565(0x18a):window[_0x6f0565(0x1c7)](_0x6f0565(0x1b6),_0x6f0565(0x1a0));break;case _0x6f0565(0x16d):window[_0x6f0565(0x1c7)](_0x6f0565(0x1b6),_0x6f0565(0x1a0));break;case _0x6f0565(0x16b):window[_0x6f0565(0x1c7)](_0x6f0565(0x1b6),_0x6f0565(0x1a0));break;case _0x6f0565(0x1a9):window[_0x6f0565(0x1c7)]('https://drive.google.com/file/d/1zaqrGYsF7aTDhPyfa_gb55XA5i79HY0g/view?usp=drive_link','_blank');break;case _0x6f0565(0x197):window[_0x6f0565(0x1c7)](_0x6f0565(0x179),_0x6f0565(0x1a0));break;case _0x6f0565(0x1d8):window[_0x6f0565(0x1c7)]('https://drive.google.com/file/d/1zaqrGYsF7aTDhPyfa_gb55XA5i79HY0g/view?usp=drive_link','_blank');break;case'grimorio\x20das\x20verdades\x20ancestrais':window['open']('https://drive.google.com/file/d/1zaqrGYsF7aTDhPyfa_gb55XA5i79HY0g/view?usp=drive_link',_0x6f0565(0x1a0));break;case _0x6f0565(0x18d):window[_0x6f0565(0x1c7)]('https://drive.google.com/file/d/1h92AODTCwGZqLwvcw-USzEIxmDN7g5pd/view?usp=drive_link',_0x6f0565(0x1a0));break;case _0x6f0565(0x16e):window[_0x6f0565(0x1c7)]('https://drive.google.com/file/d/1h92AODTCwGZqLwvcw-USzEIxmDN7g5pd/view?usp=drive_link',_0x6f0565(0x1a0));break;case _0x6f0565(0x17a):window[_0x6f0565(0x1c7)]('https://drive.google.com/file/d/1L_JwkxoOc7_LrumfrFwH-SucWySnIHm3/view?usp=drive_link','_blank');break;case _0x6f0565(0x18f):window[_0x6f0565(0x1c7)](_0x6f0565(0x1cc),_0x6f0565(0x1a0));break;case _0x6f0565(0x181):window['open'](_0x6f0565(0x1c3),_0x6f0565(0x1a0));break;case _0x6f0565(0x1ce):window[_0x6f0565(0x1c7)](_0x6f0565(0x1c3),_0x6f0565(0x1a0));break;case _0x6f0565(0x1ad):window['open']('https://drive.google.com/file/d/1m7XIk1FqspqZkFFNWTsuoS3sMKWmAHPW/view?usp=drive_link',_0x6f0565(0x1a0));break;case _0x6f0565(0x1bc):window[_0x6f0565(0x1c7)](_0x6f0565(0x1c3),_0x6f0565(0x1a0));break;case _0x6f0565(0x171):window[_0x6f0565(0x1c7)](_0x6f0565(0x1c3),'_blank');break;case _0x6f0565(0x1e9):window['open'](_0x6f0565(0x1c3),_0x6f0565(0x1a0));break;case _0x6f0565(0x19a):window[_0x6f0565(0x1c7)]('https://drive.google.com/file/d/1m7XIk1FqspqZkFFNWTsuoS3sMKWmAHPW/view?usp=drive_link',_0x6f0565(0x1a0));break;case _0x6f0565(0x1ba):window[_0x6f0565(0x1c7)](_0x6f0565(0x1c3),_0x6f0565(0x1a0));break;case _0x6f0565(0x180):window[_0x6f0565(0x1c7)](_0x6f0565(0x1c3),_0x6f0565(0x1a0));break;case _0x6f0565(0x17b):window[_0x6f0565(0x1c7)]('https://drive.google.com/file/d/1m7XIk1FqspqZkFFNWTsuoS3sMKWmAHPW/view?usp=drive_link',_0x6f0565(0x1a0));break;case _0x6f0565(0x1d7):window[_0x6f0565(0x1c7)](_0x6f0565(0x1b5),_0x6f0565(0x1a0));break;case _0x6f0565(0x1c4):window[_0x6f0565(0x1c7)]('https://drive.google.com/file/d/1pO0dDo24FfD5PnZ7bENiwFK1HX_yqkPZ/view?usp=drive_link',_0x6f0565(0x1a0));break;default:_0x5a5f36(_0x6f0565(0x17e));}}function _0x1375(_0x40b98a,_0x38ec89){const _0x5447c4=_0x5447();return _0x1375=function(_0x13752b,_0xb04b4c){_0x13752b=_0x13752b-0x16b;let _0x1b1293=_0x5447c4[_0x13752b];return _0x1b1293;},_0x1375(_0x40b98a,_0x38ec89);}function _0x5447(){const _0x32621c=['novelo','cade\x20voce,\x20meu\x20tago','mythos','fatima','1151218271038','libraryofbabel','marine','biblioteca\x20de\x20ekvilli','cage\x20face','87vMpagd','lynx','cade\x20voce,\x20meu\x20tago?','2222880VWkMgy','149321TEKemk','style','https://youtu.be/XOrygf_iLhw?si=OSIyTHFeITZ_vSLF&t=188','https://drive.google.com/file/d/1bKxrXDegUqMt1uiDA2tDgJ1cJccKF1Lq/view?usp=drive_link','add','dup','https://drive.google.com/file/d/1zaqrGYsF7aTDhPyfa_gb55XA5i79HY0g/view?usp=drive_link','eu\x20apenas\x20queria\x20brincar','cade\x20voce\x20meu\x20tago','1319215CAHprL','ekvilli','Este\x20livro\x20não\x20está\x20disponível\x20para\x20Insurgentes!\x20Favor\x20tentar\x20outro.','https://www.youtube.com/watch?v=19y8YTbvri8','cade\x20voce\x20meu\x20tago?','cadê\x20você,\x20meu\x20tago?','https://www.youtube.com/watch?v=Hse_HTX6KGs','varis','#0afeb8#cb10ef#ffea88#c9fff2#ffc9ea#f50016','biblioteca\x20de\x20babel','nue','https://www.youtube.com/watch?v=w_P2TytwMdI','f20f29f71f82f50f52','https://www.youtube.com/watch?v=-guWdSW5F5s','bibliotecadeekvilli','8393jAzCTh','https://www.youtube.com/watch?v=_yhXdRIq-N0','cageface','bibliotecadebabel','euapenasqueriabrincar','https://www.youtube.com/watch?v=b-CdYiB__RM','getElementById','https://www.youtube.com/watch?v=m2Ma2OW1IeQ','https://www.youtube.com/watch?v=otVMiNqFDNM','tago','https://www.youtube.com/watch?v=pmOD9yQQoTU','3536gOkJif','grimóriodasverdadesancestrais','block','https://drive.google.com/file/d/1SKr1uPIMFfdK6b6yYML_P-hTQ9qOtKep/view?usp=drive_link','cadevocemeutago?','https://drive.google.com/file/d/1bJJI0OEsPkat50h7nn7dPeq2ynH2RJQ7/view?usp=drive_link','https://www.youtube.com/watch?v=5AOYPRgr01M','https://drive.google.com/file/d/1RpDhoj2IejV4MPdB__PG5-ddcUH4-SSi/view?usp=drive_link','lette','https://www.youtube.com/watch?v=5Ti5iNOV62M','_blank','ceres','2196IanlMb','#00feb6#ed07f4#e9ec8e#b0fef0#ffc4e6#ff000f','cheshire','fidus','00feb6ed07f4e9ec8eb0fef0ffc4e6ff000f','joovi','1656gMLUZb','grimório\x20das\x20verdades\x20ancestrais','4610MEMltg','https://www.youtube.com/watch?v=vNRFdQPCSAs','aima','cadê\x20você\x20meu\x20tago?','chavedaprovação','display','library\x20of\x20babel','cynda','https://www.youtube.com/watch?v=JSfuFlhsxZY','moguto','value','https://drive.google.com/file/d/1pO0dDo24FfD5PnZ7bENiwFK1HX_yqkPZ/view?usp=drive_link','https://drive.google.com/file/d/1phRkCKoN-MYebysfs0UJLmUffZcdzENy/view?usp=drive_link','undy','rideto','r.r','cadevocemeutago','melado','cadê\x20você\x20meu\x20tago','https://www.youtube.com/watch?v=J8CorcKPnRc','https://drive.google.com/file/d/104CUZWpePX-1tNxzdyLgqQ1DfPThrvSx/view?usp=drive_link','dupcdugamer','4zXHDYD','myos','cac','https://drive.google.com/file/d/1m7XIk1FqspqZkFFNWTsuoS3sMKWmAHPW/view?usp=drive_link','provodeydra','https://drive.google.com/file/d/1kvSvcvFnU-_txgJqoFQdOkzdwSya_bRA/view?usp=drive_link','https://www.youtube.com/watch?v=9mwTQV1KBMs','open','https://www.youtube.com/watch?v=i7vpisttsU0','cosmo','ydra','chavedaprovacao','https://drive.google.com/file/d/1L_JwkxoOc7_LrumfrFwH-SucWySnIHm3/view?usp=drive_link','639060OZGSpV','cadê\x20você,\x20meu\x20tago','https://www.youtube.com/watch?v=5ar_HGz3pko&t=1s','https://www.youtube.com/watch?v=8ya9EhvcNsA','7KPSDej','https://www.youtube.com/watch?v=8OkpRK2_gVs','https://drive.google.com/file/d/1yjJ7iVv9QQ6O_3GsPdRV917jmoCdgBIG/view?usp=drive_link','godofredo','none','akira','provo\x20de\x20ydra','grimoriodasverdadesancestrais','https://www.youtube.com/watch?v=QHVqpRRX6EU','https://www.youtube.com/watch?v=E5KC1E5NyR0','chave\x20da\x20provação','https://www.youtube.com/watch?v=BwI76TfzI4g','https://www.youtube.com/shorts/pxmw-WeGGyU','renji','silly','https://drive.google.com/file/d/1UIyr53VGdn64ltW8IELlHyhhn-4E9Skj/view?usp=drive_link','paradoxo','mallumo','r.r.','https://drive.google.com/file/d/1iSdIiT-1_Ym00aJpZ1I0UPYzL4XtiYZa/view?usp=drive_link','innerText','https://www.youtube.com/watch?v=y-cJuCMzpdA','https://drive.google.com/file/d/1851i-btIRiDbhjjNBG4em4wYmsujEMyf/view?usp=drive_link'];_0x5447=function(){return _0x32621c;};return _0x5447();}
+function redirectUser(){
+    const input = document.getElementById("input").value.trim().toLowerCase();
+ 
+
+function showAlert(message){
+    const alerta = document.getElementById("alerta");
+    alerta.innerText = message;
+    alerta.style.display = "block"
+    alerta.classList.add("show");
+
+
+setTimeout(() => {
+    alerta.style.display = "none";}, 5000);
+}
+
+
+    switch(input){
+        case "lynx":
+            window.open("https://www.youtube.com/watch?v=9mwTQV1KBMs", "_blank");
+            break;      
+        case "finn":
+            window.open("https://www.youtube.com/watch?v=J8CorcKPnRc", "_blank");
+            break;
+        case "cynda":
+            window.open("https://www.youtube.com/watch?v=J8CorcKPnRc", "_blank");
+            break;
+        case "diretora":
+            window.open("https://www.youtube.com/watch?v=J8CorcKPnRc", "_blank");
+            break;
+        case "giideon":
+            window.open("https://www.youtube.com/watch?v=8OkpRK2_gVs", "_blank");
+            break;
+        case "ceres":
+            window.open("https://www.youtube.com/watch?v=m2Ma2OW1IeQ", "_blank");
+            break;
+        case "myos":
+            window.open("https://www.youtube.com/watch?v=8ya9EhvcNsA", "_blank");
+            break;
+        case "undy":
+            window.open("https://www.youtube.com/watch?v=19y8YTbvri8", "_blank");
+            break;
+        case "joovi":
+            window.open("https://www.youtube.com/shorts/KurtSRbjC5g", "_blank");
+            break;
+        case "adriel":
+            window.open("https://www.youtube.com/watch?v=b-CdYiB__RM", "_blank");
+            break;
+        case "varis":
+            window.open("https://www.youtube.com/watch?v=_yhXdRIq-N0", "_blank");
+            break;
+        case "rr":
+            window.open("https://www.youtube.com/watch?v=pmOD9yQQoTU", "_blank");
+            break;
+        case "r.r":
+            window.open("https://www.youtube.com/watch?v=pmOD9yQQoTU", "_blank");
+            break;
+        case "r.r.":
+            window.open("https://www.youtube.com/watch?v=pmOD9yQQoTU", "_blank");
+            break;
+        case "ed":
+            window.open("https://www.youtube.com/watch?v=QHVqpRRX6EU", "_blank");
+            break;
+        case "paradoxo":
+            window.open("https://www.youtube.com/watch?v=5ar_HGz3pko&t=1s", "_blank");
+            break;
+        case "r.r.":
+            window.open("https://www.youtube.com/watch?v=pmOD9yQQoTU", "_blank");
+            break;
+        case "melado":
+            window.open("https://www.youtube.com/watch?v=d7BpBAL2ztc", "_blank");
+            break;
+        case "dup":
+            window.open("https://www.youtube.com/watch?v=otVMiNqFDNM", "_blank");
+            break;
+        case "cac":
+            window.open("https://www.youtube.com/watch?v=qPGe7YeiPto", "_blank");
+            break;
+        case "dupcdugamer":
+            window.open("https://www.youtube.com/watch?v=BwI76TfzI4g", "_blank");
+            break;
+        case "niko":
+            window.open("https://youtu.be/XOrygf_iLhw?si=OSIyTHFeITZ_vSLF&t=188", "_blank");
+            break;
+        case "akira":
+            window.open("https://www.youtube.com/watch?v=JSfuFlhsxZY", "_blank");
+            break;
+        case "renji":
+            window.open("https://www.youtube.com/watch?v=IQuc7wfO16Q", "_blank");
+            break;
+        case "felipe":
+            window.open("https://www.youtube.com/watch?v=vNRFdQPCSAs", "_blank");
+            break;
+        case "marine":
+            window.open("https://www.youtube.com/watch?v=-guWdSW5F5s", "_blank");
+            break;
+        case "fatima":
+            window.open("https://www.youtube.com/watch?v=dTL8ugXNv5E", "_blank");
+            break;
+        case "godofredo":
+            window.open("https://www.youtube.com/watch?v=5AOYPRgr01M", "_blank");
+            break;
+        case "novelo":
+            window.open("https://www.youtube.com/watch?v=5Ti5iNOV62M", "_blank");
+            break;
+        case "silly":
+            window.open("https://www.youtube.com/watch?v=5Ti5iNOV62M", "_blank");
+            break;
+        case "cheshire":
+            window.open("https://www.youtube.com/shorts/pxmw-WeGGyU", "_blank");
+            break;
+        case "lette":
+            window.open("https://www.youtube.com/watch?v=i7vpisttsU0", "_blank");
+            break;
+        case "cosmo":
+            window.open("https://www.youtube.com/watch?v=E5KC1E5NyR0", "_blank");
+            break;
+        case "nue":
+            window.open("https://www.youtube.com/watch?v=w_P2TytwMdI", "_blank");
+            break;
+        case "gorr":
+            window.open("https://www.youtube.com/watch?v=Hse_HTX6KGs", "_blank");
+            break;
+        case "ydra":
+            window.open("https://www.youtube.com/watch?v=y-cJuCMzpdA", "_blank");
+            break;
+        case "aima":
+            window.open("https://drive.google.com/file/d/1bKxrXDegUqMt1uiDA2tDgJ1cJccKF1Lq/view?usp=drive_link");
+            break;
+        case "moguto":
+            window.open("https://drive.google.com/file/d/1wj5EfXf4Hu2qQ47nLXdTq_aSEKo2kFc5/view?usp=sharing", "_blank");
+            break;
+        case "tago":
+            window.open("https://drive.google.com/file/d/1bJJI0OEsPkat50h7nn7dPeq2ynH2RJQ7/view?usp=drive_link", "_blank");
+            break;
+        case "fidus":
+            window.open("https://drive.google.com/file/d/13Y6c8vxyVWpUSP3co5llk-lRGlRva8V4/view?usp=drive_link", "_blank");
+            break;
+        case "ekvilli":
+            window.open("https://drive.google.com/file/d/1TVQdYt6JXWsHcGXuUZxgFAfQGVAE4t3d/view?usp=drive_link", "_blank");
+            break;
+        case "mythos":
+            window.open("https://drive.google.com/file/d/1RpDhoj2IejV4MPdB__PG5-ddcUH4-SSi/view?usp=drive_link", "_blank");
+            break;
+        case "mallumo":
+            window.open("https://drive.google.com/file/d/1yjJ7iVv9QQ6O_3GsPdRV917jmoCdgBIG/view?usp=drive_link", "_blank");
+            break;
+        case "rideto":
+            window.open("https://drive.google.com/file/d/104CUZWpePX-1tNxzdyLgqQ1DfPThrvSx/view?usp=drive_link", "_blank");
+            break;
+        case "osto":
+            window.open("https://drive.google.com/file/d/1oAcl9ns7WTzaErWCDtqQI65UbnKVSTY8/view?usp=drive_link", "_blank");
+            break;
+        case "chave da provação":
+            window.open("https://drive.google.com/file/d/1iSdIiT-1_Ym00aJpZ1I0UPYzL4XtiYZa/view?usp=drive_link", "_blank");
+            break;
+        case "chavedaprovação":
+            window.open("https://drive.google.com/file/d/1iSdIiT-1_Ym00aJpZ1I0UPYzL4XtiYZa/view?usp=drive_link", "_blank");
+            break;
+        case "chavedaprovacao":
+            window.open("https://drive.google.com/file/d/1iSdIiT-1_Ym00aJpZ1I0UPYzL4XtiYZa/view?usp=drive_link", "_blank");
+            break;
+        case "chave da provacao":
+            window.open("https://drive.google.com/file/d/1iSdIiT-1_Ym00aJpZ1I0UPYzL4XtiYZa/view?usp=drive_link", "_blank");
+            break;
+        case "f20f29f71f82f50f52":
+            window.open("https://drive.google.com/file/d/1851i-btIRiDbhjjNBG4em4wYmsujEMyf/view?usp=drive_link", "_blank");
+            break;
+        case "#0afeb8#cb10ef#ffea88#c9fff2#ffc9ea#f50016":
+            window.open("https://drive.google.com/file/d/1SKr1uPIMFfdK6b6yYML_P-hTQ9qOtKep/view?usp=drive_link", "_blank");
+            break;
+        case "#0afeb8#cb10ef#ffea88#c9fff2#ffc9ea#f50016":
+            window.open("https://drive.google.com/file/d/1SKr1uPIMFfdK6b6yYML_P-hTQ9qOtKep/view?usp=drive_link", "_blank");
+            break;
+        case "00feb6ed07f4e9ec8eb0fef0ffc4e6ff000f":
+            window.open("https://drive.google.com/file/d/1SKr1uPIMFfdK6b6yYML_P-hTQ9qOtKep/view?usp=drive_link", "_blank");
+            break;
+        case "#00feb6#ed07f4#e9ec8e#b0fef0#ffc4e6#ff000f":
+            window.open("https://drive.google.com/file/d/1SKr1uPIMFfdK6b6yYML_P-hTQ9qOtKep/view?usp=drive_link", "_blank");
+            break;
+        case "1151218271038":
+            window.open("https://drive.google.com/file/d/1kvSvcvFnU-_txgJqoFQdOkzdwSya_bRA/view?usp=drive_link", "_blank");
+            break;
+        case "biblioteca de babel":
+            window.open("https://drive.google.com/file/d/1phRkCKoN-MYebysfs0UJLmUffZcdzENy/view?usp=drive_link", "_blank");
+            break;
+        case "bibliotecadebabel":
+            window.open("https://drive.google.com/file/d/1phRkCKoN-MYebysfs0UJLmUffZcdzENy/view?usp=drive_link", "_blank");
+            break;
+        case "library of babel":
+            window.open("https://drive.google.com/file/d/1phRkCKoN-MYebysfs0UJLmUffZcdzENy/view?usp=drive_link", "_blank");
+            break;
+        case "bibliotecadeekvilli":
+            window.open("https://drive.google.com/file/d/1phRkCKoN-MYebysfs0UJLmUffZcdzENy/view?usp=drive_link", "_blank");
+            break;
+        case "biblioteca de ekvilli":
+            window.open("https://drive.google.com/file/d/1phRkCKoN-MYebysfs0UJLmUffZcdzENy/view?usp=drive_link", "_blank");
+            break;
+        case "libraryofbabel":
+            window.open("https://drive.google.com/file/d/1phRkCKoN-MYebysfs0UJLmUffZcdzENy/view?usp=drive_link", "_blank");
+            break;
+        case "grimório das verdades ancestrais":
+            window.open("https://drive.google.com/file/d/1zaqrGYsF7aTDhPyfa_gb55XA5i79HY0g/view?usp=drive_link", "_blank");
+            break;
+        case "grimóriodasverdadesancestrais":
+            window.open("https://drive.google.com/file/d/1zaqrGYsF7aTDhPyfa_gb55XA5i79HY0g/view?usp=drive_link", "_blank");
+            break;
+        case "grimoriodasverdadesancestrais":
+            window.open("https://drive.google.com/file/d/1zaqrGYsF7aTDhPyfa_gb55XA5i79HY0g/view?usp=drive_link", "_blank");
+            break;
+        case "grimorio das verdades ancestrais":
+            window.open("https://drive.google.com/file/d/1zaqrGYsF7aTDhPyfa_gb55XA5i79HY0g/view?usp=drive_link", "_blank");
+            break;
+        case "cageface":
+            window.open("https://drive.google.com/file/d/1h92AODTCwGZqLwvcw-USzEIxmDN7g5pd/view?usp=drive_link", "_blank");
+            break;
+        case "cage face":
+            window.open("https://drive.google.com/file/d/1h92AODTCwGZqLwvcw-USzEIxmDN7g5pd/view?usp=drive_link", "_blank");
+            break;
+        case "eu apenas queria brincar":
+            window.open("https://drive.google.com/file/d/1L_JwkxoOc7_LrumfrFwH-SucWySnIHm3/view?usp=drive_link", "_blank");
+            break;
+        case "euapenasqueriabrincar":
+            window.open("https://drive.google.com/file/d/1L_JwkxoOc7_LrumfrFwH-SucWySnIHm3/view?usp=drive_link", "_blank");
+            break;
+        case "cadê você, meu tago?":
+            window.open("https://drive.google.com/file/d/1m7XIk1FqspqZkFFNWTsuoS3sMKWmAHPW/view?usp=drive_link", "_blank");
+            break;
+        case "cadê você, meu tago":
+            window.open("https://drive.google.com/file/d/1m7XIk1FqspqZkFFNWTsuoS3sMKWmAHPW/view?usp=drive_link", "_blank");
+            break;
+        case "cadê você meu tago?":
+            window.open("https://drive.google.com/file/d/1m7XIk1FqspqZkFFNWTsuoS3sMKWmAHPW/view?usp=drive_link", "_blank");
+            break;
+        case "cadê você meu tago":
+            window.open("https://drive.google.com/file/d/1m7XIk1FqspqZkFFNWTsuoS3sMKWmAHPW/view?usp=drive_link", "_blank");
+            break;
+        case "cade voce, meu tago?":
+            window.open("https://drive.google.com/file/d/1m7XIk1FqspqZkFFNWTsuoS3sMKWmAHPW/view?usp=drive_link", "_blank");
+            break;
+        case "cade voce, meu tago":
+            window.open("https://drive.google.com/file/d/1m7XIk1FqspqZkFFNWTsuoS3sMKWmAHPW/view?usp=drive_link", "_blank");
+            break;
+        case "cadevocemeutago?":
+            window.open("https://drive.google.com/file/d/1m7XIk1FqspqZkFFNWTsuoS3sMKWmAHPW/view?usp=drive_link", "_blank");
+            break;
+        case "cadevocemeutago":
+            window.open("https://drive.google.com/file/d/1m7XIk1FqspqZkFFNWTsuoS3sMKWmAHPW/view?usp=drive_link", "_blank");
+            break;
+        case "cade voce meu tago?":
+            window.open("https://drive.google.com/file/d/1m7XIk1FqspqZkFFNWTsuoS3sMKWmAHPW/view?usp=drive_link", "_blank");
+            break;
+        case "cade voce meu tago":
+            window.open("https://drive.google.com/file/d/1m7XIk1FqspqZkFFNWTsuoS3sMKWmAHPW/view?usp=drive_link", "_blank");
+            break;
+        case "provo de ydra":
+            window.open("https://drive.google.com/file/d/1pO0dDo24FfD5PnZ7bENiwFK1HX_yqkPZ/view?usp=drive_link", "_blank");
+            break;
+        case "provodeydra":
+            window.open("https://drive.google.com/file/d/1pO0dDo24FfD5PnZ7bENiwFK1HX_yqkPZ/view?usp=drive_link", "_blank");
+            break;
+        
+        default:
+            showAlert("Este livro não está disponível para Insurgentes! Favor tentar outro.")
+        
+        
+
+    }
+}
